@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 The DegenToken smart contract is deployed on the Avalanche Fuji testnet at the following address:
 
-`0x52d44078EB44dB92D7dA086c6E0D4B79329809b0`
+`https://testnet.snowtrace.io/address/0x52d44078EB44dB92D7dA086c6E0D4B79329809b0#code`
